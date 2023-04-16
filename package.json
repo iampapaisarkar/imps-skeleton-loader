@@ -1,0 +1,27 @@
+{
+  "name": "imps-skeleton-loader",
+  "version": "1.0.0",
+  "description": "A vue js component for sekeleton loader",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iampapaisarkar/imps-skeleton-loader.git"
+  },
+  "keywords": [
+    "vue component",
+    "vue loader",
+    "vue skeleton loader",
+    "sekelton loader",
+    "sekelton loader component",
+    "vue component"
+  ],
+  "author": "iampapaisarkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iampapaisarkar/imps-skeleton-loader/issues"
+  },
+  "homepage": "https://github.com/iampapaisarkar/imps-skeleton-loader#readme"
+}
