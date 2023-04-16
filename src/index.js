@@ -1,7 +1,7 @@
 import ImpsSkeletonLoader from './ImpsSkeletonLoader.vue';
 
 export default {
-  install(Vue) {
-    Vue.component('imps-skeleton-loader', ImpsSkeletonLoader);
+  install(app) {
+    app.component('imps-skeleton-loader', ImpsSkeletonLoader);
   }
 };
